@@ -1,0 +1,16 @@
+.form-container{
+  text-align: center;
+}
+
+.form-field{
+  display: block
+}
+
+.node-tree-invisible {
+    display: none;
+  }
+  
+.node-tree ul,
+.node-tree li {
+  list-style-type: none;
+}
