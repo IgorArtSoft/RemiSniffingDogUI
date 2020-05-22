@@ -1,0 +1,68 @@
+Files ./.editorconfig and ../RemiSniffingDogUIVer9PrimeNg/.editorconfig differ
+Files ./.git/COMMIT_EDITMSG and ../RemiSniffingDogUIVer9PrimeNg/.git/COMMIT_EDITMSG differ
+Files ./.git/config and ../RemiSniffingDogUIVer9PrimeNg/.git/config differ
+Files ./.git/HEAD and ../RemiSniffingDogUIVer9PrimeNg/.git/HEAD differ
+Files ./.git/index and ../RemiSniffingDogUIVer9PrimeNg/.git/index differ
+Files ./.git/logs/HEAD and ../RemiSniffingDogUIVer9PrimeNg/.git/logs/HEAD differ
+Only in ./.git/logs/refs/heads: development
+Files ./.git/logs/refs/heads/master and ../RemiSniffingDogUIVer9PrimeNg/.git/logs/refs/heads/master differ
+Only in ./.git/logs/refs: remotes
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 03
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 06
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 07
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 0a
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 2c
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 36
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 39
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 43
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 4c
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 50
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 59
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 5e
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 64
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 68
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 7b
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 7c
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 80
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 86
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 8c
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 90
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 93
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: 99
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: a2
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: a9
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: b0
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: b4
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: b5
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: b6
+Only in ./.git/objects: bb
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: c7
+Only in ./.git/objects: d3
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: d5
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: d9
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: de
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: e1
+Only in ./.git/objects/e6: 9016423f60c28beec87144afad042f5f1ec5f8
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects/e6: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: f6
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: f7
+Only in ../RemiSniffingDogUIVer9PrimeNg/.git/objects: fd
+Only in ./.git/objects/pack: pack-7655e127169cd603aac170d7a7b8788f12b49371.idx
+Only in ./.git/objects/pack: pack-7655e127169cd603aac170d7a7b8788f12b49371.pack
+Only in ./.git: packed-refs
+Only in ./.git/refs/heads: development
+Files ./.git/refs/heads/master and ../RemiSniffingDogUIVer9PrimeNg/.git/refs/heads/master differ
+Only in ./.git/refs: remotes
+Files ./.gitignore and ../RemiSniffingDogUIVer9PrimeNg/.gitignore differ
+Only in ../RemiSniffingDogUIVer9PrimeNg/: .history
+Only in ../RemiSniffingDogUIVer9PrimeNg/: .vscode
+Files ./browserslist and ../RemiSniffingDogUIVer9PrimeNg/browserslist differ
+Only in ../RemiSniffingDogUIVer9PrimeNg/: dist
+Files ./e2e/protractor.conf.js and ../RemiSniffingDogUIVer9PrimeNg/e2e/protractor.conf.js differ
+Files ./e2e/src/app.e2e-spec.ts and ../RemiSniffingDogUIVer9PrimeNg/e2e/src/app.e2e-spec.ts differ
+Files ./e2e/src/app.po.ts and ../RemiSniffingDogUIVer9PrimeNg/e2e/src/app.po.ts differ
+Files ./e2e/tsconfig.json and ../RemiSniffingDogUIVer9PrimeNg/e2e/tsconfig.json differ
+Only in .: igor.txt
+Files ./karma.conf.js and ../RemiSniffingDogUIVer9PrimeNg/karma.conf.js differ
+Only in .: LICENSE
+Files ./README.md and ../RemiSniffingDogUIVer9PrimeNg/README.md differ

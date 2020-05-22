@@ -1,4 +1,4 @@
-import { ChatNode } from "./chat-node";
+import { ChatNode } from './chat-node';
 
 export interface ChatBotResponse{
     

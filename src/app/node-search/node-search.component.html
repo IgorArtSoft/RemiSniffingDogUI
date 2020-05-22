@@ -1,0 +1,38 @@
+<div class="ui-g-12">
+    <form [formGroup]="searchForm" (ngSubmit)="onSubmit(searchForm.value)">
+        
+        <span class="ui-float-label">
+            <input type="text" size="30" pInputText id="chatBotNodeNameId"
+                formControlName="chatBotNodeName">
+            <label for="chatBotNodeNameId">Node Name</label>
+        </span>
+        <span>
+            <button pButton type="submit" label="Search"></button>
+        </span>
+
+    </form>
+</div>
+
+<div class="ui-g-12">
+
+    <p-treeTable [value]="files">
+        <ng-template pTemplate="header">
+            <tr>
+                <th>Name</th>
+                <th>Size</th>
+                <th>Type</th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-rowNode let-rowData="rowData">
+            <tr [ttRow]="rowNode">
+                <td>
+                    <p-treeTableToggler [rowNode]="rowNode"></p-treeTableToggler>
+                    {{rowData.name}}
+                </td>
+                <td>{{rowData.size}}</td>
+                <td>{{rowData.type}}</td>
+            </tr>
+        </ng-template>
+    </p-treeTable>
+
+</div>
